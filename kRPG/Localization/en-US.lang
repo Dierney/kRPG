@@ -1,0 +1,140 @@
+
+// kRPG.Buffs
+
+
+BuffName.Cold=Chilled
+BuffDescription.Cold=Slowed movement and increased chance to receive critical hits
+
+BuffName.Fire=Burning
+BuffDescription.Fire=Taking fire damage over time
+
+BuffName.Lightning=Shocked
+BuffDescription.Lightning=Take increased damage
+
+BuffName.ManaCooldown=Mana Sickness
+BuffDescription.ManaCooldown=Cannot use mana potions
+
+BuffName.Physical=Stunned
+BuffDescription.Physical=Halted all movement
+
+BuffName.Shadow=Doomed
+BuffDescription.Shadow=Deal less damage
+
+
+// kRPG.Items.Glyphs
+
+
+ItemName.Glyph=Generic Glyph; Please Ignore
+
+ItemName.Star=Generic Star Glyph; Please Ignore
+
+ItemName.Cross=Generic Cross Glyph; Please Ignore
+
+ItemName.Moon=Generic Moon Glyph; Please Ignore
+
+ItemName.Star_Orange=Orange Star Glyph
+ItemToolTip.Star_Orange=Summons a winged eyeball to cast the spell
+
+ItemName.Star_Blue=Blue Star Glyph
+ItemToolTip.Star_Blue=Casts spell directly
+
+ItemName.Star_Purple=Purple Star Glyph
+ItemToolTip.Star_Purple=Summons an obelisk sentry to cast the spell
+
+ItemName.Cross_Red=Red Cross Glyph
+ItemToolTip.Cross_Red=Casts magical fireballs
+
+ItemName.Cross_Orange=Orange Cross Glyph
+ItemToolTip.Cross_Orange=Creates copies of your selected melee weapon
+
+ItemName.Cross_Yellow=Yellow Cross Glyph
+ItemToolTip.Cross_Yellow=Conjures large magical boulders
+
+ItemName.Cross_Green=Green Cross Glyph
+ItemToolTip.Cross_Green=Conjures giant arrows that deal ranged damage
+
+ItemName.Cross_Blue=Blue Cross Glyph
+ItemToolTip.Cross_Blue=Casts magical ice cubes
+
+ItemName.Cross_Violet=Violet Cross Glyph
+ItemToolTip.Cross_Violet=Casts magical shadowbolts
+
+ItemName.Cross_Purple=Purple Cross Glyph
+ItemToolTip.Cross_Purple=Casts magical lightning orbs
+
+ItemName.Moon_Yellow=Yellow Moon Glyph
+ItemToolTip.Moon_Yellow=Throws whirling projectiles that pierce the enemies
+
+ItemName.Moon_Green=Green Moon Glyph
+ItemToolTip.Moon_Green=Casts projectiles to orbit around you
+
+ItemName.Moon_Blue=Blue Moon Glyph
+ItemToolTip.Moon_Blue=Fires an array of projectiles outwards
+
+ItemName.Moon_Violet=Violet Moon Glyph
+ItemToolTip.Moon_Violet=Rains down projectiles at the target location
+
+ItemName.Moon_Purple=Purple Moon Glyph
+ItemToolTip.Moon_Purple=Shoots up a fountain of projectiles to rain down around you
+
+
+// kRPG.Items
+
+
+ItemName.BlacksmithCrown=Crown of Transcendence
+
+ItemName.PermanenceCrown=Crown of Permanence
+
+ItemName.ProceduralItem=Procedurally Generated Item; Please Ignore
+
+ItemName.ProceduralStaff=Procedurally Generated Staff; Please Ignore
+
+ItemName.ProceduralSword=Procedurally Generated Sword; Please Ignore
+
+ItemName.ScintillatingBloodLacrima=Scintillating Blood Lacrima
+ItemToolTip.ScintillatingBloodLacrima=Consume to reset stat points
+
+
+// kRPG.Items.Weapons
+
+
+ItemName.Arbalest=Arbalest
+
+ItemName.EyeOnAStick=Eye on a Stick
+
+ItemName.Scythe=Iron Scythe
+
+
+// kRPG.Items.Weapons.RangedDrops
+
+
+ItemName.RangedWeapon=Generic Ranged Weapon; Please Ignore
+
+ItemName.GoldenPistol=Golden Pistol
+
+ItemName.NambuPistol=Nambu Pistol
+
+ItemName.Longbow=Longbow
+
+ItemName.WoodenBow=WoodenBow
+
+ItemName.AngelBow=Angel Bow
+
+ItemName.DemonBow=Demon Bow
+ItemToolTip.DemonBow=50% chance to not consume ammo.
+
+ItemName.Kalashnikov=Kalashnikov
+ItemToolTip.Kalashnikov=33% chance to not consume ammo.
+
+ItemName.M16=M16
+ItemToolTip.M16=33% chance to not consume ammo.
+
+ItemName.Microgun=Microgun
+ItemToolTip.Microgun=50% chance to not consume ammo.
+
+
+// kRPG.NPCs
+
+
+NPCName.RetiredAdventurer=Retired Adventurer
+
